@@ -1,0 +1,14 @@
+F:\STUDY\2018\RabbitMQ\Test.RabbitMQ\Test.MQ\bin\Debug\Test.MQ.dll
+F:\STUDY\2018\RabbitMQ\Test.RabbitMQ\Test.MQ\bin\Debug\Test.MQ.pdb
+F:\STUDY\2018\RabbitMQ\Test.RabbitMQ\Test.MQ\bin\Debug\EasyNetQ.dll
+F:\STUDY\2018\RabbitMQ\Test.RabbitMQ\Test.MQ\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+F:\STUDY\2018\RabbitMQ\Test.RabbitMQ\Test.MQ\bin\Debug\Newtonsoft.Json.dll
+F:\STUDY\2018\RabbitMQ\Test.RabbitMQ\Test.MQ\bin\Debug\RabbitMQ.Client.dll
+F:\STUDY\2018\RabbitMQ\Test.RabbitMQ\Test.MQ\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+F:\STUDY\2018\RabbitMQ\Test.RabbitMQ\Test.MQ\bin\Debug\Newtonsoft.Json.xml
+F:\STUDY\2018\RabbitMQ\Test.RabbitMQ\Test.MQ\bin\Debug\RabbitMQ.Client.xml
+F:\STUDY\2018\RabbitMQ\Test.RabbitMQ\Test.MQ\obj\Debug\Test.MQ.csprojAssemblyReference.cache
+F:\STUDY\2018\RabbitMQ\Test.RabbitMQ\Test.MQ\obj\Debug\Test.MQ.csproj.CoreCompileInputs.cache
+F:\STUDY\2018\RabbitMQ\Test.RabbitMQ\Test.MQ\obj\Debug\Test.MQ.csproj.CopyComplete
+F:\STUDY\2018\RabbitMQ\Test.RabbitMQ\Test.MQ\obj\Debug\Test.MQ.dll
+F:\STUDY\2018\RabbitMQ\Test.RabbitMQ\Test.MQ\obj\Debug\Test.MQ.pdb
